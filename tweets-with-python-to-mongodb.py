@@ -7,6 +7,7 @@ from pymongo import MongoClient
 
 
 # TODO
+# Replace print with Logger
 # Get word list from docker var list 
 WORDS = ['#Docker']
  
